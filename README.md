@@ -31,40 +31,8 @@ Welcome to my **digital workshop!** I'm Zahid, an embedded systems developer ded
 - Hardware Interface: I2C, SPI, UART, RS485 and CANBus
 
 #### Version Control & CI/CD
-- Git, GitHub
-- Jenkins for embedded CI/CD pipelines
-
-### 🚀 Current Projects
-
-- 🏠 Developing a low energy safety device for smart gas monitoring system
-- 🌱 Implementing advanced farmer assistance for smart farming
-
-### 💡 Philosophy
-
-> "In embedded systems, elegance is found in efficiency, reliability, and seamless integration with the physical world."
-
-### 🔗 Let's Connect
-
-- [LinkedIn](linkedin.com/in/zahid8363) - Let's grow our professional network
-- [X](x.com/zahid8363) - Follow my tech insights and project updates
-- [Profile](codewithzahid.github.io) - Project profile on embedded systems and IoT
-
-### 🎯 Professional Goals for 2024
-
-- [ ] Contribute to open-source RTOS projects, focusing on security enhancements
-- [ ] Publish a comprehensive series on advanced embedded systems design techniques
-- [ ] Present research on low-power IoT solutions at an international conference
-- [ ] Obtain professional certifications: Certified Embedded Systems Professional (CESP)
-
-### 📚 Continuous Learning
-
-- Exploring AI and machine learning integration in embedded systems
-- Studying formal methods for critical embedded software verification
-- Keeping up with the latest in RISC-V architecture and its applications
-
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions on pushing the boundaries of embedded systems!
-
-
+- Git, GitHub, GitLab
+  
 ### 🪛 Crafting Tools
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
