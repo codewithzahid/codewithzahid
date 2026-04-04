@@ -4,7 +4,7 @@ I’m a hardware and embedded systems engineer who specializes in transforming i
 
 With strong experience in STM32, ESP32, and Arduino platforms, I develop efficient firmware and design robust PCBs tailored to real-world applications. My work spans across IoT, industrial automation, automotive systems, smart agriculture, and low-power embedded solutions.
 
-I provide end-to-end support throughout the entire product lifecycle — from concept development and prototyping to testing and manufacturing readiness. I focus on delivering reliable, optimized designs with clear communication and fast turnaround times.
+I provide end-to-end support throughout the entire product lifecycle, from concept development and prototyping to testing and manufacturing readiness. I focus on delivering reliable, optimized designs with clear communication and fast turnaround times.
 
 ### Core Skills
 
